@@ -1,0 +1,17 @@
+{
+  "name": "reacttesting",
+  "version": "1.0.0",
+  "description": "testing react with express",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon ./server/server.js"
+  },
+  "author": "so",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
